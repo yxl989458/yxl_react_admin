@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1 className='relative top-4 bg-red-300'>hearder</h1>
     </div>
   );
 }
